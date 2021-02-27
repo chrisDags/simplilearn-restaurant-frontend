@@ -1,0 +1,11 @@
+.navbar-header {
+    padding: 15px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+   
+}
+.navbar-brand {
+    font-size: xx-large;
+    text-align: center;
+}

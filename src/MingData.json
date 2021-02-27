@@ -1,0 +1,22 @@
+{
+    "deals": [
+      {
+        "food": "Rice",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur blandit purus, vitae pharetra lorem semper sed.",
+        "image":"/rice.jpeg",
+        "id": 1
+      },
+      {
+        "food": "Hotdog",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur blandit purus, vitae pharetra lorem semper sed.",
+        "image":"/hotdog.jpg",
+        "id": 2
+      },
+      {
+        "food": "Burger",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur blandit purus, vitae pharetra lorem semper sed.",
+        "image":"/burger.jpg",
+        "id": 3
+      }
+    ]
+  }
